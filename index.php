@@ -1,5 +1,5 @@
 <?php
 
-echo "Merhaba";
+echo "Merhaba 2";
 
 ?>
